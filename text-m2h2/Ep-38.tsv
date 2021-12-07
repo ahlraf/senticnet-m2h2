@@ -1,4 +1,3 @@
-sep="	"
 Scenes	Sl. No.	Start_time	End_time	Utterance	Label	Speaker
 Scene_1	1	0:00:42.020000	0:00:03.360000	पिता जी.. पिता जी..पिता जी.. डैडी.. डैडी	non-humor	Dilruba,u-
 Scene_1	2	0:00:45.420000	0:00:03.480000	अरे बाप रे! कितने साल हुए आप को देखे।	humor	Dilruba,u-
